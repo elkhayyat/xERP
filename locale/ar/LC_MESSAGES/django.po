@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-20 17:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: AHMED ELKHAYYAT <elkhayyat.me@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+#: authentication/models.py:15
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+
+#: templates/authentication/login.html:120
+#: templates/authentication/login.html:223
+msgid "Sign in"
+msgstr "تسجيل دخول"
+
+#: templates/authentication/login.html:125
+msgid "Enter your credentials to login"
+msgstr "برجاء ادخال بيانات حسابك لتسجل الدخول"
+
+#: templates/authentication/login.html:133
+msgid "Email or Phone Number"
+msgstr "البريد الالكتروني او رقم الهاتف"
+
+#: templates/authentication/login.html:139
+msgid "Enter email or phone number"
+msgstr "ادخل البريد الالكتروني او رقم الهاتف"
+
+#: templates/authentication/login.html:165
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: templates/authentication/login.html:171
+msgid "Enter Password"
+msgstr "ادخل كلمة المرور"
+
+#: templates/authentication/login.html:215
+msgid "Remember Me"
+msgstr "تذكرني"
+
+#: templates/authentication/login.html:371
+msgid "Don't have an account ?"
+msgstr "ليس لديك حساب؟"
+
+#: templates/authentication/login.html:376
+msgid "SIGN UP"
+msgstr "تسجيل حساب جديد"
+
+#: vristotheme/templates/components/common/header.html:175
+msgid "No data available."
+msgstr "لا يوجد بيانات متاحة"
+
+#: xERP/settings.py:144
+msgid "English"
+msgstr ""
+
+#: xERP/settings.py:145
+msgid "Arabic"
+msgstr "العربية"

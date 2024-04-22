@@ -1,0 +1,19 @@
+# Basic Django Package
+Django==5.0.4
+Pillow==10.3.0
+# UUID
+uuid==1.30
+django-phonenumbers==1.0.1
+django-phonenumber-field==7.3.0
+# Django Rest Framework
+djangorestframework==3.15.1
+# django tailwind is used for vristotheme
+django-tailwind==3.8.0
+
+# restframe schema
+pyyaml==6.0.1
+uritemplate==4.1.1
+inflection==0.5.1
+
+# Django Rest Knox is advanced token based authentication
+django-rest-knox==4.2.0
